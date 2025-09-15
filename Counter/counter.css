@@ -1,0 +1,9 @@
+#number {
+    text-align: center;
+    color: red;
+    background-color: rgb(25, 128, 128);
+    font-size: 30px;
+    width: 200px;
+    margin: auto;
+    border-radius: 10px;
+}
