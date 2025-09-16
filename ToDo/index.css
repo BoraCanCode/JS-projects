@@ -1,0 +1,9 @@
+.completed-task {
+    text-decoration: line-through;
+    color: red;
+}
+
+.not-completed-task {
+    text-decoration: none;
+    color: green;
+}
